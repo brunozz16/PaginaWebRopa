@@ -1,0 +1,22 @@
+.menu_desplegable{
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0px; 
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+    list-style: none;
+}
+.menu_desplegable li a{
+    font-size: 1.1rem;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    display: block;
+    
+}
+.menu_desplegable li a:hover{
+    background-color: antiquewhite;
+    color: black;
+}
