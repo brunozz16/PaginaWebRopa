@@ -7,6 +7,7 @@
     color: aliceblue;
     text-decoration: none;
     list-style: none;
+    align-self: center;
 }
 .menu_desplegable li a{
     font-size: 1.1rem;
@@ -14,7 +15,7 @@
     padding: 20px;
     color: aliceblue;
     display: block;
-    
+    font-family: 'Arial Narrow';
 }
 .menu_desplegable li a:hover{
     background-color: antiquewhite;

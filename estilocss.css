@@ -9,6 +9,8 @@ body{
     grid-template-columns: repeat(auto-fill, minmax(15rem,1fr));
 }
 .carta{
+    font-family: 'Arial Narrow';
+    font-size: 1.38rem;
     padding: 1rem;
     background: rgba(0, 0, 0, 0.75);
     height: auto;
@@ -17,6 +19,7 @@ body{
 }
 .carta img{
     width: 100%;
+    border-radius: 10px;
 }
 .carta p{
     text-align: center;
